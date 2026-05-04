@@ -15,6 +15,7 @@ CSS
 Amaç
 
 Bu proje, temel CRUD işlemlerini öğrenmek ve web geliştirme pratiği kazanmak amacıyla geliştirilmiştir.
+indexx.php Ana sayfadır.
 
 Kurulum
 Projeyi indir veya klonla
